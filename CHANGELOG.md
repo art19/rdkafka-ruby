@@ -1,3 +1,6 @@
+# 0.11.1
+* Use mini_portile2 2.6, otherwise you can't run nokogiri and rdkafka at the same time.
+
 # 0.11.0
 * Upgrade librdkafka to 1.8.2
 * Bump supported minimum Ruby version to 2.6
